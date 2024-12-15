@@ -6,7 +6,7 @@
 
 - 🌟 **B.Tech in Computer Science** from Kolhapur Institute of Technology (CGPA: 7.8)
 - 📚 Runner-up in **No-code Web Development** and **Farm Automation System Projects**
-- 🎮 Passionate about **Web Development**, **MERN Stack**, and **Cloud Deployment**
+- 🎮 Passionate about **Web Development**, **MERN Stack**, and **Contanerization**
 - ⚖️ Technical Head of the **Matrix Club** at KIT College of Engineering
 - 🌿 Mentored **30+ members** and led **15+ member teams** on technical projects
 
