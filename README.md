@@ -17,7 +17,6 @@
 - **Additional Skills:** Quick Learner, Problem-Solving, Leadership, Communication
 
 ### 🏆 Certifications
-- **AWS & Cloud Computing**
 - **Full Stack Web Development** by Hitesh Choudhary
 - **Front-End Domination** by Sheryians Coding School
 
