@@ -54,17 +54,6 @@ Quick Learner | Problem-Solving | Leadership | Communication
 - Automated irrigation and crop monitoring using IoT sensors.
 - Real-time dashboard for monitoring and reducing water usage by 30%.
 
-### **Event Eclipse**  
-**Tech Stack:** React.js, Tailwind CSS
-- Mobile-responsive event management web app with CRUD APIs.
-
-### **Real-Time Tracking System**  
-**Tech Stack:** Node.js, WebSockets
-- Live tracking platform optimized for high performance.
-
-### **WordPress Service Booking**  
-**Tech Stack:** WordPress (No-Code)
-- Service booking website with user-friendly interfaces.
 
 ---
 
@@ -87,7 +76,7 @@ Kolhapur Institute of Technology
 ## 🌱 I’m currently learning
 
 - Advanced MERN stack techniques
-- Scalable architecture with Docker and Kubernetes
+- Scalable architecture with Docker 
 
 ---
 
@@ -95,7 +84,6 @@ Kolhapur Institute of Technology
 
 - Building scalable web apps
 - Integrating animations in React projects
-- Cloud deployment and optimizations
 
 ---
 
