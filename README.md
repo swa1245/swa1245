@@ -89,7 +89,6 @@ Kolhapur Institute of Technology
 
 ## 🤝 Let’s Connect
 
-- 📱 **Phone:** +91 9307081738
 - 📧 **Email:** [swarajpatil644@gmail.com](mailto:swarajpatil644@gmail.com)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white): [swa1245](https://github.com/swa1245)
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Swaraj Patil](https://linkedin.com/in/swaraj-patil-a60aa9315)
